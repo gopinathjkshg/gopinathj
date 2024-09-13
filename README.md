@@ -1,8 +1,8 @@
 # Welcome to [gopinath's](https://github.com/gopinath/) profile! <a href="https://github.com/gopinath/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### I'm a...   <img src="https://user-images.githubusercontent.com/31365698/215766037-54403913-12c6-48a2-a58a-6090e1ea9f19.gif" height=15% width=40% align="right">
+### I'm gopinath j   <img src="https://user-images.githubusercontent.com/31365698/215766037-54403913-12c6-48a2-a58a-6090e1ea9f19.gif" height=15% width=40% align="right">
 
-* Future Data Scientist 
+*  
 * Deep Learning in Medical Image Processing and Analysis Paper Author
 * Self-Taught Coder
 * Demanding Perfectionist
