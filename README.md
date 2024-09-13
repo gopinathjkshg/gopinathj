@@ -1,6 +1,6 @@
 # Welcome to [gopinath's](https://github.com/gopinath/) profile! <a href="https://github.com/gopinath/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### I'm a...   <img src="https://www.bing.com/images/search?view=detailV2&ccid=cjXKmQsF&id=7DDFADCC8D516D594C958F9E286719A749CE3B3B&thid=OIP.cjXKmQsFoQZ1lJcbpH3v1QHaD4&mediaurl=https%3A%2F%2Fwww.rvcj.com%2Fwp-content%2Fuploads%2F2019%2F03%2Fgif-startup-rocket.gif&exph=628&expw=1200&q=startup.gif&simid=608027693352958586&form=IRPRST&ck=735F96EE59CF2DBCF9B70625EF37C67C&selectedindex=0&itb=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11" height=15% width=30% align="right">
+### I'm a...   <img src="https://www.bing.com/images/search?view=detailV2&ccid=cjXKmQsF&id=7DDFADCC8D516D594C958F9E286719A749CE3B3B&thid=OIP.cjXKmQsFoQZ1lJcbpH3v1QHaD4&mediaurl=https%3A%2F%2Fwww.rvcj.com%2Fwp-content%2Fuploads%2F2019%2F03%2Fgif-startup-rocket.gif&exph=628&expw=1200&q=startup.gif&simid=608027693352958586&form=IRPRST&ck=735F96EE59CF2DBCF9B70625EF37C67C&selectedindex=0&itb=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11" height=15% width=40% align="right">
 
 * Future Data Scientist 
 * Deep Learning in Medical Image Processing and Analysis Paper Author
